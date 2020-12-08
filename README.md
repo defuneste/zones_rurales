@@ -12,6 +12,7 @@ sources des données : https://www.insee.fr/fr/information/2114627
 
 Vecteur des communes : je vais probablement prendre OSM 
 
+Plus de docs : https://www.observatoire-des-territoires.gouv.fr/methodes/comprendre-la-grille-de-densite
 
 ## Structuration du dépot 
 
@@ -22,7 +23,7 @@ Les données sont dans *data/* et à charge de l'utilisateur de les DL (pe à au
 ## Les trucs à faire
 
 
-[ ] Reproduire les données permettant la cartos
+[ ] Reproduire les données permettant la carto
 
 [ ] Reprendre le code couleurs de l'ANCT
 
